@@ -119,6 +119,20 @@ Screenshots demonstrating:
 ### Total Revenue by Region
 ![Total Revenue by Region](screenshots/total_revenue_by_region.png)
 
+## Screenshots
+
+### Above-Average Revenue Highlighting
+<img src="https://github.com/user-attachments/assets/755b3417-110d-4d9d-9a0e-b08f0ef9b34d" width="700"/>
+
+### Age Group Categorization
+<img src="https://github.com/user-attachments/assets/7d5b453b-be70-47be-939e-ec4beec60a3d" width="700"/>
+
+### Average Revenue by Product Category
+<img src="https://github.com/user-attachments/assets/7b2e79ce-0a1c-4fdb-ad49-583f74813128" width="700"/>
+
+### Total Revenue by Region
+<img src="https://github.com/user-attachments/assets/b546aeba-e7cc-4393-846e-32782323d326" width="700"/>
+
 
 ---
 
