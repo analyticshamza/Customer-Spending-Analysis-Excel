@@ -93,23 +93,19 @@ Each age group was visually differentiated using distinct formatting styles.
 
 ---
 
-## Notes
-- Pivot Tables and charts were intentionally not used
-- All insights were derived using formula-based Excel analysis
-- This project emphasizes clarity, accuracy, and business-focused insights
-
----
-
 ## Screenshots
 Screenshots demonstrating:
-- Above-average revenue highlighting  
+- Above-average revenue highlighting
+  <img width="190" height="93" alt="image" src="https://github.com/user-attachments/assets/755b3417-110d-4d9d-9a0e-b08f0ef9b34d" />
+
 - Age group categorization
-- <img width="768" height="377" alt="image" src="https://github.com/user-attachments/assets/7d5b453b-be70-47be-939e-ec4beec60a3d" />
+  <img width="768" height="377" alt="image" src="https://github.com/user-attachments/assets/7d5b453b-be70-47be-939e-ec4beec60a3d" />
 
-- Average revenue by product category  
-- Total revenue by region  
+- Average revenue by product category
+  <img width="335" height="176" alt="image" src="https://github.com/user-attachments/assets/7b2e79ce-0a1c-4fdb-ad49-583f74813128" />
 
-
+- Total revenue by region
+  <img width="346" height="163" alt="image" src="https://github.com/user-attachments/assets/b546aeba-e7cc-4393-846e-32782323d326" />
 
 ---
 
